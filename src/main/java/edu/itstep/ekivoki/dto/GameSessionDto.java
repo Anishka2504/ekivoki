@@ -5,8 +5,9 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class TopicDto {
+public class GameSessionDto {
 
     private Long id;
-    private String name;
+    private String session_uuid;
+    private String date_creation;
 }
