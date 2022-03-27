@@ -1,3 +1,6 @@
+# development environment folder
+.idea
+
 # Compiled class file
 *.class
 
