@@ -5,6 +5,7 @@ import lombok.Setter;
 
 /**
  * This class contains field "Id" extended from BaseEntity class and field "Name" which is common for all models in the project.
+ *
  * @author Anna Drozdovskaya
  * @version 1.0
  */
